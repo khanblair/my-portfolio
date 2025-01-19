@@ -36,8 +36,11 @@
 .style-switcher .style-switcher-toggler {
     top: 0;
 }
+.style-switcher .chatbot-icon {
+    top: 48px;
+}
 .style-switcher .day-night {
-    top: 55px;
+    top: 96px;
 }
 .style-switcher h4 {
     margin: 0 0 10px;

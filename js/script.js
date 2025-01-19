@@ -151,3 +151,5 @@ for (var i = 0; i < viewProjectBtns.length; i++) {
     openModal(projectElement);
   }
 }
+
+
